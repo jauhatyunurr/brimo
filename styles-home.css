@@ -5,7 +5,7 @@ body, html {
 }
 
 .bg-image {
-    background-image: url('02.jpg'); /* Ganti dengan path gambar yang sesuai */
+    background-image: url('01.jpg'); /* Ganti dengan path gambar yang sesuai */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
